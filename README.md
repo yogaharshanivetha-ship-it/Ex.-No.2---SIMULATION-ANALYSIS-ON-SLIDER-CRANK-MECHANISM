@@ -45,9 +45,26 @@
 
 ## Output
 
+## Velocity:
 
-### Name:
-### Register Number: 
+<img width="1144" height="780" alt="Screenshot 2026-05-24 162403" src="https://github.com/user-attachments/assets/91e9a692-3db6-443f-b26f-e776da5f999a" />
+
+
+<img width="1391" height="858" alt="image" src="https://github.com/user-attachments/assets/2b69ed0a-eb1b-4773-956b-0a8aaa9226ec" />
+
+## Acceleration:
+
+<img width="1363" height="789" alt="image" src="https://github.com/user-attachments/assets/72703224-7d25-4a04-a81e-3455f87a2292" />
+
+
+<img width="1186" height="762" alt="image" src="https://github.com/user-attachments/assets/4f9035c0-2b47-4e2c-82e0-5b938377aa67" />
+
+
+<img width="1471" height="855" alt="image" src="https://github.com/user-attachments/assets/34fd5bf0-1ab8-45b2-8202-e69d40a5523b" />
+
+
+### Name: HARSHA NIVETHA A K
+### Register Number: 212225230097
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
